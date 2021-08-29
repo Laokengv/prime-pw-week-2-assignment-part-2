@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-//
-//
-//
-//
+// The variable is called name and is set to 'Dane'
+// The if statement states that if the variable is an exact match it will console log 'Hi, Mary!'
+// The else statement states that if said variable is not an exact match it will console log 'How do you do?'
+// The outcome would be console.log 'How do you do?'
 
 //CODE
 /*
@@ -45,10 +45,11 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// The variable is called name and is set to 'Dane'
-// The if statement states that if the variable is an exact match it will console log 'Hi, Mary!'
-// The else statement states that if said variable is not an exact match it will console log 'How do you do?'
-// The outcome would be console.log 'How do you do?'
+// There are two variables called 'secret' and 'code'. The variable called 'code' has been set to 123
+// The first if statement states that if the variable code is an exact match to 123 the outcome will be 'super'
+// and the original value of the code will multiply by 2
+// The variable called 'code' has changed and is now multiplied by 2
+// The second if statement states that if the code is greater than 250 the outcome will be 'duper'
 
 //CODE
 /*
@@ -70,10 +71,12 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
+// There are three variables, two number variables and a boolean variable.
+// The if statement states that if the student is an exact match to true and the zip code is greater than the number 8000
+// we would console.log 'You're a student on the West Coast!
+// The first else if statement states that if 
 //
-//
-//
-//
+
 
 //CODE
 /*
