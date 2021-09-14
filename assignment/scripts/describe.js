@@ -169,7 +169,9 @@ let age = 21;
 const minAge = 21;
 // FIX - in the description we checked if age is greater than or equal to minAge
 // while the if code has them flip-flopped
-// the corrrect code should be if ( age >= minAge ) {
+// the correct code should have the operator flipped
+// Correct code should be: if ( minAge >= age ) {
+
 }
 if(minAge <= age) {
   console.log('no entry');
